@@ -8,8 +8,8 @@
 ## Desenvolvedor e Cybersecurity
 
 • Competidor Senai SP Skills de Cybersecurity 🔒 <br><br>
-• Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍🎓 | 2° Semestre<br><br>
-• Desenvolvedor Junior React | Node.js 🧑🏼‍💻
+• Estudante de Análise e Desenvolvimento de Sistemas 👨🏻‍🎓 | 3° Semestre<br><br>
+
 
 
 
