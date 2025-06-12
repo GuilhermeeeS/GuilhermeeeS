@@ -8,7 +8,7 @@
 • 🌩️ Aspiring Cloud Engineer | Linux | Python & JS Dev <br><br>
 • ☁️ Focused on AWS, Infrastructure as Code & Automation <br><br>
 
-## 💡 Knowledge in the following technologies 
+## 🛠️ Tools and technologies I'm familiar with 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
