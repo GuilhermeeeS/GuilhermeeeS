@@ -3,10 +3,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-s-souza-43a3bb281/)
  
-# ☁️ Cloud Enthusiast | Former Cybersecurity Competitor | ADS Student
+# ☁️ Cloud & DevOps | ADS Student | Former Cybersecurity Competitor
 
-• 🌩️ Aspiring Cloud Engineer | Linux | Python & JS Dev <br><br>
-• ☁️ Focused on AWS, Infrastructure as Code & Automation <br><br>
+🎯 Focused on AWS, Infrastructure as Code, and Automation  
+🐧 Linux, Containers, and Cloud Security  
+💻 Experience with Python and JavaScript for automation and backend projects  
+
+📚 Currently learning Docker, Kubernetes, and preparing for AWS Solutions Architect certification  
+🚀 Looking for opportunities in Cloud Engineering and DevOps
 
 ## 🛠️ Tools and technologies I'm familiar with 
 
