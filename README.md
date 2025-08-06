@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-s-souza-43a3bb281/)
  
-# ☁️ Cloud & DevOps | ADS Student | Former Cybersecurity Competitor
+# ☁️ Cloud & DevOps | Computer Information Systems
 
 🎯 Focused on AWS, Infrastructure as Code, and Automation  
 🐧 Linux, Containers, and Cloud Security  
