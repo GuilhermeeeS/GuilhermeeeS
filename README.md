@@ -15,6 +15,7 @@
     <img src="ai-practitioner.png" width="80px" />
   </a>
 </p>
+🛡️ 2x Microsoft Azure Certified | 1x Aws Certified
 
 🎯 Focused on AWS, Infrastructure as Code, and Automation  
 🐧 Linux, Containers, and Cloud Security  
