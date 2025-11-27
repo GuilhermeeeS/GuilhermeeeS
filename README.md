@@ -4,6 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-s-souza-43a3bb281/)
  
 # ☁️ Cloud & DevOps | Computer Information Systems
+<p align="left">
+  <a href="https://www.credly.com/badges/b4e492f5-7571-4c51-9a2b-8c53106e9b73">
+    <img src="az-900.png" width="80px" />
+  </a>
+  <a href="https://www.credly.com/badges/bca49b2c-6c82-4f9f-8475-cb2b44c7fa93">
+    <img src="ai-900.png" width="80px" />
+  </a>
+  <a href="https://www.credly.com/badges/b35112ca-0f3d-49ac-b87a-1c6f85318345">
+    <img src="ai-practitioner.png" width="80px" />
+  </a>
+</p>
 
 🎯 Focused on AWS, Infrastructure as Code, and Automation  
 🐧 Linux, Containers, and Cloud Security  
