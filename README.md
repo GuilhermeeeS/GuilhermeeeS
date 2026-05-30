@@ -1,42 +1,53 @@
-# Hi, I'm Guilherme Santos Souza 😄
+# Olá, eu sou Guilherme Santos Souza 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-s-souza-43a3bb281/)
- 
-# ☁️ Cloud & DevOps | Computer Information Systems
+## Cloud Computing | DevOps | Infraestrutura ☁️
+
+Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando MBA em Cloud Computing.
+
+Tenho foco em computação em nuvem, automação, containers, infraestrutura como código e práticas DevOps. Atualmente estudo AWS e Microsoft Azure com foco em arquitetura, operações, segurança e automação de ambientes cloud.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-souza)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gssouza.guilherme@gmail.com)
+
+## 🏅 Certificações
+
 <p align="left">
-  <a href="https://www.credly.com/badges/b4e492f5-7571-4c51-9a2b-8c53106e9b73">
-    <img src="az-900.png" width="80px" />
+  <a href="LINK-CREDLY-AZ900">
+    <img src="az-900.png" width="90">
   </a>
-  <a href="https://www.credly.com/badges/bca49b2c-6c82-4f9f-8475-cb2b44c7fa93">
-    <img src="ai-900.png" width="80px" />
+
+  <a href="LINK-CREDLY-AI900">
+    <img src="ai-900.png" width="90">
   </a>
-  <a href="https://www.credly.com/badges/b35112ca-0f3d-49ac-b87a-1c6f85318345">
-    <img src="ai-practitioner.png" width="80px" />
+
+  <a href="LINK-CREDLY-AIPRACTITIONER">
+    <img src="ai-practitioner.png" width="90">
   </a>
 </p>
-🛡️ 2x Microsoft Azure Certified | 1x Aws Certified
 
-🎯 Focused on AWS, Infrastructure as Code, and Automation  
-🐧 Linux, Containers, and Cloud Security  
-💻 Experience with Python and JavaScript for automation and backend projects  
+### Certificações conquistadas
 
-📚 Preparing for AWS Solutions Architect certification  
-🚀 Looking for opportunities in Cloud Engineering and DevOps
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- AWS Certified AI Practitioner
 
-## 🛠️ Tools and technologies I'm familiar with 
+## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/><br></br>
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img align="center" alt="K8s" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=Terraform&logoColor=white"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,python,javascript,nodejs,git,bash&perline=11" />
+</p>
+
+## 💼 Áreas de Interesse
+
+- Cloud Engineering
+- DevOps
+- Platform Engineering
+- Infrastructure Engineering
+- Cloud Security
+- Site Reliability Engineering (SRE)
 
 
 
