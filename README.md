@@ -14,22 +14,6 @@ Tenho foco em computação em nuvem, automação, containers, infraestrutura com
 
 ## 🏅 Certificações
 
-<p align="left">
-  <a href="LINK-CREDLY-AZ900">
-    <img src="az-900.png" width="90">
-  </a>
-
-  <a href="LINK-CREDLY-AI900">
-    <img src="ai-900.png" width="90">
-  </a>
-
-  <a href="LINK-CREDLY-AIPRACTITIONER">
-    <img src="ai-practitioner.png" width="90">
-  </a>
-</p>
-
-### Certificações conquistadas
-
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
 - AWS Certified AI Practitioner
