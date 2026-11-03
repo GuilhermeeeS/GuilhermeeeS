@@ -11,7 +11,7 @@ Background in Linux infrastructure and automation at Autoliv. Today I build and 
 ## 🚀 What I'm working on
 
 - **[Vance Solutions](https://vancesolutions.com.br/)**: my one-person business. A business management SaaS (inventory, sales, finance) running on Cloudflare Workers + Supabase, with continuous deployment on every push and recurring billing via Stripe.
-- Migrated a Next.js application (47 tables, ~20 screens) from Vercel and Render to Cloudflare Workers, consolidating infrastructure on a single provider.
+- Migrated a Next.js application (47 tables, 20 screens) from Vercel and Render to Cloudflare Workers, consolidating infrastructure on a single provider.
 - Multi-tenant PostgreSQL with Row Level Security, plus DNS and authenticated email (SPF/DKIM) managed on Cloudflare.
 
 ## 📫 Contact
