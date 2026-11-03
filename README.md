@@ -4,7 +4,7 @@
 
 Systems Analysis and Development graduate, currently pursuing an MBA in Cloud Engineering & Cloud Architecture (FIAP).
 
-Background in Linux infrastructure and automation at Autoliv. Today I build and run production SaaS on Cloudflare Workers and PostgreSQL, and I keep studying AWS and Microsoft Azure with a focus on architecture, operations, security and cloud automation.
+Background in Linux infrastructure and automation at Autoliv. Today I build and run production SaaS on Cloudflare Workers, and I keep studying AWS and Microsoft Azure with a focus on architecture, operations, security and cloud automation.
 
 📍 Taubaté, Brazil · Open to relocation to Spain
 
