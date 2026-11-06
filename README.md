@@ -4,15 +4,9 @@
 
 Systems Analysis and Development graduate, currently pursuing an MBA in Cloud Engineering & Cloud Architecture (FIAP).
 
-Background in Linux infrastructure and automation at Autoliv. Today I work as a Cloud/DevOps engineer on a production SaaS running on Cloudflare Workers, and I keep studying AWS and Microsoft Azure with a focus on architecture, operations, security and cloud automation.
+Background in Linux infrastructure and automation at Autoliv, and currently working with cloud and DevOps on production systems. I keep studying AWS and Microsoft Azure, with a focus on architecture, operations, security and automation.
 
 📍 Taubaté, Brazil · Open to remote roles
-
-## 🚀 What I'm working on
-
-- **[Vance Solutions](https://vancesolutions.com.br/)**: Cloud/DevOps Engineer (contractor). Architecture, deployment and operation of a business management SaaS (inventory, sales, finance) running on Cloudflare Workers + Supabase, with CI/CD on every push and recurring billing via Stripe.
-- Migrated a Next.js application (47 tables, 20 screens) from Vercel and Render to Cloudflare Workers, consolidating infrastructure on a single provider.
-- Multi-tenant PostgreSQL with Row Level Security, plus DNS and authenticated email (SPF/DKIM) managed on Cloudflare.
 
 ## 📂 Featured projects
 
