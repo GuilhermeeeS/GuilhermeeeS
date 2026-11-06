@@ -29,7 +29,7 @@ Background in Linux infrastructure and automation at Autoliv. Today I build and 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,terraform,ansible,linux,python,javascript,nodejs,git,bash&perline=12" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,ansible,linux,cloudflare,python,nodejs,git,bash&perline=12" />
 </p>
 
 ## 📚 Currently learning
