@@ -19,6 +19,7 @@ Background in Linux infrastructure and automation at Autoliv, and currently work
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-souza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gssouza.guilherme@gmail.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guilherme-souz2021-gmail-com-souza/badges#credly)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guilherme.souz2021)
 
 ## 🏅 Certifications
 
