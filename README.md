@@ -22,9 +22,9 @@ Background in Linux infrastructure and automation at Autoliv. Today I build and 
 
 ## 🏅 Certifications
 
+- AWS Certified AI Practitioner
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
-- AWS Certified AI Practitioner
 
 ## 🛠️ Tech Stack
 
