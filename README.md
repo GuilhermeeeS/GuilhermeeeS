@@ -8,12 +8,6 @@ Background in Linux infrastructure and automation at Autoliv, and currently work
 
 📍 Taubaté, Brazil · Open to remote roles
 
-## 📂 Featured projects
-
-- **[aws-hardened-web](https://github.com/GuilhermeeeS/aws-hardened-web)**: security as code on AWS. Terraform (VPC, EC2 with IMDSv2, hardened S3), Ansible hardening (SSH, ufw, fail2ban, sysctl) and a CI pipeline with tflint, Trivy and ansible-lint.
-- **[aws-security-audit-lambda](https://github.com/GuilhermeeeS/aws-security-audit-lambda.)**: serverless AWS Lambda (Python/boto3) that audits root MFA, IAM users without MFA and access key age.
-- **[nginx-aws-devops](https://github.com/GuilhermeeeS/nginx-aws-devops)**: Nginx on EC2 provisioned with Terraform, Docker image on Docker Hub and a Bash deploy script.
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-santos-souza)
